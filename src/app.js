@@ -3,6 +3,10 @@ let managerName = "Alex Ferguson";
 let managerAge = 78;
 let currentTeam = "Manchester FC";
 let trophiesWon = 27;
+function createManager(managerName, managerAge, currentTeam, trophiesWon)
+{
+
+}
 
 //Write your function here
 
